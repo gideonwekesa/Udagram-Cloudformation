@@ -1,0 +1,7 @@
+Running the Scripts: 
+
+Create Stack Command: ./create.sh Udagram Udagram.yml Udagram-parameters.json
+
+Update Stack Command: ./update.sh Udagram Udagram.yml Udagram-parameters.json
+
+Delete Stack Command: ./delete.sh Udagram
